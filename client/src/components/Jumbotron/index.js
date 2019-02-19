@@ -1,14 +1,12 @@
 import React from "react";
 
-function Jumbotron() {
+function Jumbotron({ children }) {
   return (
     <div
-      style={{textAlign: "center" }}
+      style={{ textAlign: "center" }}
       className="jumbotron"
     >
-      {/* {children} */}
-      <h1>(React) Google Books Search</h1>
-      <p>Search for and Save Books of Interest</p>
+      {children}
     </div>
   );
 }
