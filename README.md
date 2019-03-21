@@ -7,4 +7,9 @@ This is my first attempt at making a MERN (MongoDB,Express.js,React.js,Node.js) 
 - The applicant is built with Javascript and the back-end uses Node.js
 
 ## How the application works:
+1. Type in a book title for a book.
+2. Hit search. 
+3. You will see a list of books.
+4. You have the option of saving the book info which you can view in the "saved" page.
+
 ![Image of Google Books API website](/react_search.png)
