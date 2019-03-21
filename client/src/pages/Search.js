@@ -8,9 +8,7 @@ import { EachBook } from "../components/EachBook";
 import { ViewButton, SaveButton } from "../components/Buttons";
 import { Input, FormBtn } from "../components/Form";
 
-// function Search () {
-//     return (<h1>Search</h1>)
-// }
+
 
 class Search extends Component {
 

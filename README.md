@@ -7,3 +7,4 @@ This is my first attempt at making a MERN (MongoDB,Express.js,React.js,Node.js) 
 - The applicant is built with Javascript and the back-end uses Node.js
 
 ## How the application works:
+![Image of Google Books API website](/react_search.png)
